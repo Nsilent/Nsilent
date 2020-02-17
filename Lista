@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Portugal-17/02/2020",RTP 1 PT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Portugal-17/02/2020",RTP 1 PT
 http://htq.brasilia.me/iptv/ch2100?code=050131378299589
 #EXTINF:-1,RTP 2 PT
 http://cdng.pubcdn.tn/iptv/ch2101?code=050131378299589
