@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 group-title="PortugalV1",RTP 1 PT
+http://htq.brasilia.me/iptv/ch2100?code=050131378299589
+#EXTINF:-1,RTP 2 PT
+http://cdng.pubcdn.tn/iptv/ch2101?code=050131378299589
+#EXTINF:-1,RTP 3 PT
+http://cdng.pubcdn.tn/iptv/ch2102?code=050131378299589
+#EXTINF:-1,RTP Memoria PT
+http://cdng.pubcdn.tn/iptv/ch2103?code=050131378299589
+#EXTINF:-1,SIC PT
+https://live.impresa.pt/live/sic/sic.m3u8
+#EXTINF:-1,SIC Noticias PT
+http://cdng.pubcdn.tn/iptv/ch2106?code=050131378299589
+#EXTINF:-1,SIC Mulher PT
+http://cdng.pubcdn.tn/iptv/ch2107?code=050131378299589
+#EXTINF:-1,SIC Kids PT
+http://cdng.pubcdn.tn/iptv/ch2108?code=050131378299589
+#EXTINF:-1,SIC Radical PT
+http://cdng.pubcdn.tn/iptv/ch2109?code=050131378299589
+#EXTINF:-1,SIC Caras PT
+http://cdng.pubcdn.tn/iptv/ch2110?code=050131378299589
+#EXTINF:-1,TVI PT
+http://cdng.pubcdn.tn/iptv/ch2111?code=050131378299589
+#EXTINF:-1,TVI Reality PT
+http://cdng.pubcdn.tn/iptv/ch2112?code=050131378299589
+#EXTINF:-1,TVI Ficcao PT
+http://cdng.pubcdn.tn/iptv/ch2113?code=050131378299589
+#EXTINF:-1,TVI 24 PT
+http://cdng.pubcdn.tn/iptv/ch2114?code=050131378299589
+#EXTINF:-1,Canal Hollywood PT
+http://cdng.pubcdn.tn/iptv/ch2116?code=050131378299589
+#EXTINF:-1,Canal Cinemondo PT
+http://cdng.pubcdn.tn/iptv/ch2117?code=050131378299589
+#EXTINF:-1,TV Cine 1 PT
+http://cdng.pubcdn.tn/iptv/ch2118?code=050131378299589
+#EXTINF:-1,TV Cine 2 PT
+http://cdng.pubcdn.tn/iptv/ch2119?code=050131378299589
+#EXTINF:-1,TV Cine 3 PT
+http://cdng.pubcdn.tn/iptv/ch2120?code=050131378299589
+#EXTINF:-1,TV Cine 4 PT
+http://cdng.pubcdn.tn/iptv/ch2121?code=050131378299589
+#EXTINF:-1,TV Series PT
+http://cdng.pubcdn.tn/iptv/ch2122?code=050131378299589
+#EXTINF:-1,Sport TV 1 PT
+http://cdng.pubcdn.tn/iptv/ch2123?code=050131378299589
+#EXTINF:-1,Sport TV 2 PT
+http://cdng.pubcdn.tn/iptv/ch2124?code=050131378299589
+#EXTINF:-1,Sport TV 3 PT
+http://cdng.pubcdn.tn/iptv/ch2125?code=050131378299589
+#EXTINF:-1,Sport TV 4 PT
+http://cdng.pubcdn.tn/iptv/ch2126?code=050131378299589
+#EXTINF:-1,Sport TV 5 PT
+http://cdng.pubcdn.tn/iptv/ch2127?code=050131378299589
+#EXTINF:-1,Eurosport 1 PT
+http://cdng.pubcdn.tn/iptv/ch2128?code=050131378299589
+#EXTINF:-1,Eurosport 2 PT
+http://cdng.pubcdn.tn/iptv/ch2129?code=050131378299589
+#EXTINF:-1,Toros TV PT
+http://cdng.pubcdn.tn/iptv/ch2130?code=050131378299589
+#EXTINF:-1,TV Globo PT
+http://cdng.pubcdn.tn/iptv/ch2131?code=050131378299589
+#EXTINF:-1,TV Record PT
+http://cdng.pubcdn.tn/iptv/ch2133?code=050131378299589
+#EXTINF:-1,MOV TV PT
+http://cdng.pubcdn.tn/iptv/ch2134?code=050131378299589
+#EXTINF:-1,Record News PT
+http://cdng.pubcdn.tn/iptv/ch2135?code=050131378299589
+#EXTINF:-1,PFC PT
+http://cdng.pubcdn.tn/iptv/ch2136?code=050131378299589
+#EXTINF:-1,Odisseia PT
+http://cdng.pubcdn.tn/iptv/ch2138?code=050131378299589
+#EXTINF:-1,Fox Movies PT
+http://cdng.pubcdn.tn/iptv/ch2141?code=050131378299589
+#EXTINF:-1,Fox Comedy PT
+http://cdng.pubcdn.tn/iptv/ch2143?code=050131378299589
+#EXTINF:-1,CM TV PT
+http://cdng.pubcdn.tn/iptv/ch2144?code=050131378299589
+#EXTINF:-1,Cacapesca PT
+http://cdng.pubcdn.tn/iptv/ch2145?code=050131378299589
+#EXTINF:-1,Discovery PT
+http://cdng.pubcdn.tn/iptv/ch2146?code=050131378299589
+#EXTINF:-1,Nat. Geo. PT
+http://cdng.pubcdn.tn/iptv/ch2148?code=050131378299589
+#EXTINF:-1,Cazavision PT
+http://cdng.pubcdn.tn/iptv/ch2149?code=050131378299589
+#EXTINF:-1,Cancao Nova PT
+http://cdng.pubcdn.tn/iptv/ch2150?code=050131378299589
+#EXTINF:-1,Abola TV PT
+http://cdng.pubcdn.tn/iptv/ch2157?code=050131378299589
+#EXTINF:-1,Cartoon Network PT
+http://cdng.pubcdn.tn/iptv/ch2160?code=050131378299589
+#EXTINF:-1,Disney Ch. PT
+http://cdng.pubcdn.tn/iptv/ch2161?code=050131378299589
+#EXTINF:-1,Disney Junior PT
+http://cdng.pubcdn.tn/iptv/ch2162?code=050131378299589
+#EXTINF:-1,Nickelodeon PT
+http://cdng.pubcdn.tn/iptv/ch2139?code=050131378299589
