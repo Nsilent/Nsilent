@@ -9,7 +9,7 @@ http://cdng.pubcdn.tn/iptv/ch2102?code=050131378299589
 http://cdng.pubcdn.tn/iptv/ch2103?code=050131378299589
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" ,SIC PT
 https://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:-1,SIC Noticias PT
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/c3sctp5ofizafak/RTP1%20Logo.png" ,SIC Noticias PT
 http://cdng.pubcdn.tn/iptv/ch2106?code=050131378299589
 #EXTINF:-1,SIC Mulher PT
 http://cdng.pubcdn.tn/iptv/ch2107?code=050131378299589
