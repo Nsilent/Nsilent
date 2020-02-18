@@ -1,841 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-17/02/2020",RTP 1 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", RTP 1 PT
 http://htq.brasilia.me/iptv/ch2100?code=050131378299589
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" ,RTP 2 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", RTP 2 PT
 http://cdng.pubcdn.tn/iptv/ch2101?code=050131378299589
-#EXTINF:-1,RTP 3 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", RTP 3 PT
 http://cdng.pubcdn.tn/iptv/ch2102?code=050131378299589
-#EXTINF:-1,RTP Memoria PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", RTP Memoria PT
 http://cdng.pubcdn.tn/iptv/ch2103?code=050131378299589
-#EXTINF:-1 tvg-logo"https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" ,SIC PT
-https://live.impresa.pt/live/sic/sic.m3u8
-#EXTINF:-1,SIC Noticias PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", SIC PT
+http://cdng.pubcdn.tn/iptv/ch2105?code=050131378299589
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", SIC Noticias PT
 http://cdng.pubcdn.tn/iptv/ch2106?code=050131378299589
-#EXTINF:-1,SIC Mulher PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", SIC Mulher PT
 http://cdng.pubcdn.tn/iptv/ch2107?code=050131378299589
-#EXTINF:-1,SIC Kids PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", SIC Kids PT
 http://cdng.pubcdn.tn/iptv/ch2108?code=050131378299589
-#EXTINF:-1,SIC Radical PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", SIC Radical PT
 http://cdng.pubcdn.tn/iptv/ch2109?code=050131378299589
-#EXTINF:-1,SIC Caras PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", SIC Caras PT
 http://cdng.pubcdn.tn/iptv/ch2110?code=050131378299589
-#EXTINF:-1,TVI PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TVI PT
 http://cdng.pubcdn.tn/iptv/ch2111?code=050131378299589
-#EXTINF:-1,TVI Reality PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TVI Reality PT
 http://cdng.pubcdn.tn/iptv/ch2112?code=050131378299589
-#EXTINF:-1,TVI Ficcao PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TVI Ficcao PT
 http://cdng.pubcdn.tn/iptv/ch2113?code=050131378299589
-#EXTINF:-1,TVI 24 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TVI 24 PT
 http://cdng.pubcdn.tn/iptv/ch2114?code=050131378299589
-#EXTINF:-1,Canal Hollywood PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Canal Hollywood PT
 http://cdng.pubcdn.tn/iptv/ch2116?code=050131378299589
-#EXTINF:-1,Canal Cinemondo PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Canal Cinemondo PT
 http://cdng.pubcdn.tn/iptv/ch2117?code=050131378299589
-#EXTINF:-1,TV Cine 1 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TV Cine 1 PT
 http://cdng.pubcdn.tn/iptv/ch2118?code=050131378299589
-#EXTINF:-1,TV Cine 2 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TV Cine 2 PT
 http://cdng.pubcdn.tn/iptv/ch2119?code=050131378299589
-#EXTINF:-1,TV Cine 3 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TV Cine 3 PT
 http://cdng.pubcdn.tn/iptv/ch2120?code=050131378299589
-#EXTINF:-1,TV Cine 4 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TV Cine 4 PT
 http://cdng.pubcdn.tn/iptv/ch2121?code=050131378299589
-#EXTINF:-1,TV Series PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TV Series PT
 http://cdng.pubcdn.tn/iptv/ch2122?code=050131378299589
-#EXTINF:-1,Sport TV 1 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Sport TV 1 PT
 http://cdng.pubcdn.tn/iptv/ch2123?code=050131378299589
-#EXTINF:-1,Sport TV 2 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Sport TV 2 PT
 http://cdng.pubcdn.tn/iptv/ch2124?code=050131378299589
-#EXTINF:-1,Sport TV 3 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Sport TV 3 PT
 http://cdng.pubcdn.tn/iptv/ch2125?code=050131378299589
-#EXTINF:-1,Sport TV 4 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Sport TV 4 PT
 http://cdng.pubcdn.tn/iptv/ch2126?code=050131378299589
-#EXTINF:-1,Sport TV 5 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Sport TV 5 PT
 http://cdng.pubcdn.tn/iptv/ch2127?code=050131378299589
-#EXTINF:-1,Eurosport 1 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Eurosport 1 PT
 http://cdng.pubcdn.tn/iptv/ch2128?code=050131378299589
-#EXTINF:-1,Eurosport 2 PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Eurosport 2 PT
 http://cdng.pubcdn.tn/iptv/ch2129?code=050131378299589
-#EXTINF:-1,Toros TV PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Toros TV PT
 http://cdng.pubcdn.tn/iptv/ch2130?code=050131378299589
-#EXTINF:-1,TV Globo PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TV Globo PT
 http://cdng.pubcdn.tn/iptv/ch2131?code=050131378299589
-#EXTINF:-1,TV Record PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", TV Record PT
 http://cdng.pubcdn.tn/iptv/ch2133?code=050131378299589
-#EXTINF:-1,MOV TV PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", MOV TV PT
 http://cdng.pubcdn.tn/iptv/ch2134?code=050131378299589
-#EXTINF:-1,Record News PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Record News PT
 http://cdng.pubcdn.tn/iptv/ch2135?code=050131378299589
-#EXTINF:-1,PFC PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", PFC PT
 http://cdng.pubcdn.tn/iptv/ch2136?code=050131378299589
-#EXTINF:-1,Odisseia PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Odisseia PT
 http://cdng.pubcdn.tn/iptv/ch2138?code=050131378299589
-#EXTINF:-1,Fox Movies PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Fox Movies PT
 http://cdng.pubcdn.tn/iptv/ch2141?code=050131378299589
-#EXTINF:-1,Fox Comedy PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Fox Comedy PT
 http://cdng.pubcdn.tn/iptv/ch2143?code=050131378299589
-#EXTINF:-1,CM TV PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", CM TV PT
 http://cdng.pubcdn.tn/iptv/ch2144?code=050131378299589
-#EXTINF:-1,Cacapesca PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Cacapesca PT
 http://cdng.pubcdn.tn/iptv/ch2145?code=050131378299589
-#EXTINF:-1,Discovery PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Discovery PT
 http://cdng.pubcdn.tn/iptv/ch2146?code=050131378299589
-#EXTINF:-1,Nat. Geo. PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Nat. Geo. PT
 http://cdng.pubcdn.tn/iptv/ch2148?code=050131378299589
-#EXTINF:-1,Cazavision PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Cazavision PT
 http://cdng.pubcdn.tn/iptv/ch2149?code=050131378299589
-#EXTINF:-1,Cancao Nova PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Cancao Nova PT
 http://cdng.pubcdn.tn/iptv/ch2150?code=050131378299589
-#EXTINF:-1,Abola TV PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Abola TV PT
 http://cdng.pubcdn.tn/iptv/ch2157?code=050131378299589
-#EXTINF:-1,Cartoon Network PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Cartoon Network PT
 http://cdng.pubcdn.tn/iptv/ch2160?code=050131378299589
-#EXTINF:-1,Disney Ch. PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Disney Ch. PT
 http://cdng.pubcdn.tn/iptv/ch2161?code=050131378299589
-#EXTINF:-1,Disney Junior PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Disney Junior PT
 http://cdng.pubcdn.tn/iptv/ch2162?code=050131378299589
-#EXTINF:-1,Nickelodeon PT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQGJxZV.png" group-title="Portugal-18/02/2020", Nickelodeon PT
 http://cdng.pubcdn.tn/iptv/ch2139?code=050131378299589
-#EXTINF:-1 group-title="XXX",Babestation Xtra
-http://universesat.net:8000/Kavkom/wHs1rYsBER/230
-#EXTINF:-1,XXX: Private TV
-http://universesat.net:8000/Kavkom/wHs1rYsBER/231
-#EXTINF:-1,XXX: RedLight HD 2
-http://universesat.net:8000/Kavkom/wHs1rYsBER/233
-#EXTINF:-1,XXX: RedLight HD 3
-http://universesat.net:8000/Kavkom/wHs1rYsBER/232
-#EXTINF:-1,XXX: Dorcel TV
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1219
-#EXTINF:-1,XXX: MAX XXX
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1380
-#EXTINF:-1,XXX: Dusk TV
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1378
-#EXTINF:-1,XXX: VIVID RED
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1379
-#EXTINF:-1,XXX: Pinko TV
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1374
-#EXTINF:-1,XXX: Redlight HD
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1371
-#EXTINF:-1,XXX: Sct
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1376
-#EXTINF:-1,XXX: sext6senso
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1375
-#EXTINF:-1,XXX: Vivid Touch
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1373
-#EXTINF:-1,XXX: MOVIESINEMA-EROTIK-1-HD
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1455
-#EXTINF:-1,XXX: MOVIESINEMA-EROTIK-2-HD
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1456
-#EXTINF:-1,XXX: MOVIESINEMA-EROTIK-3-HD
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1457
-#EXTINF:-1,XXX: MOVIESINEMA-EROTIK-4-HD
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1458
-#EXTINF:-1,XXX: MOVIESINEMA-EROTIK-5-HD
-http://universesat.net:8000/Kavkom/wHs1rYsBER/1459
-#EXTINF:-1 group-title="---- ADULTI LIVE----",---- ADULTI LIVE----
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/268
-#EXTINF:-1,[Adulti] Passion TV
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/30833
-#EXTINF:-1,[Adulti] Pinko TV
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/30834
-#EXTINF:-1,[Adulti] SCT
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/30837
-#EXTINF:-1,[Adulti] Sesto Senso
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/30838
-#EXTINF:-1,[Adulti] RedTraffic Big Ass
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31716
-#EXTINF:-1,[Adulti] RedTraffic Big Dick
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31717
-#EXTINF:-1,[Adulti] RedTraffic Big Tits
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31718
-#EXTINF:-1,[Adulti] RedTraffic Blowjob
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31719
-#EXTINF:-1,[Adulti] RedTraffic Cuckold
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31720
-#EXTINF:-1,[Adulti] RedTraffic Fetish
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31721
-#EXTINF:-1,[Adulti] RedTraffic Interracial
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31723
-#EXTINF:-1,[Adulti] RedTraffic Lesbian
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31725
-#EXTINF:-1,[Adulti] RedTraffic MILF
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31726
-#EXTINF:-1,[Adulti] RedTraffic Pornstar
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31727
-#EXTINF:-1,[Adulti] RedTraffic POV
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31728
-#EXTINF:-1,[Adulti] RedTraffic Russian
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31729
-#EXTINF:-1,[Adulti] RedTraffic Teen
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31730
-#EXTINF:-1,[Adulti] RedTraffic Threesome
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/31731
-#EXTINF:-1,---- ADULTI ONDEMAND ----
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/445
-#EXTINF:-1,[Adulti]XXX: RUSSKAYA NOCH
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90020
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 23 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90019
-#EXTINF:-1,[Adulti]XXX: ADULT MILF
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90018
-#EXTINF:-1,[Adulti]XXX: ADULT Big Dick
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90017
-#EXTINF:-1,[Adulti]XXX: ADULT Big Tits
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90016
-#EXTINF:-1,[Adulti]XXX: ADULT Fetish
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90015
-#EXTINF:-1,[Adulti]XXX: ADULT Pornstar
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90014
-#EXTINF:-1,[Adulti]XXX: ADULT Big Ass
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90013
-#EXTINF:-1,[Adulti]XXX: ADULT Latina
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90012
-#EXTINF:-1,[Adulti]XXX: ADULT POV
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90011
-#EXTINF:-1,[Adulti]XXX: ADULT Teen
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90010
-#EXTINF:-1,[Adulti]XXX: ADULT Hardcore
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90009
-#EXTINF:-1,[Adulti]XXX: ADULT Cuckold
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90008
-#EXTINF:-1,[Adulti]XXX: ADULT Threesome
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90007
-#EXTINF:-1,[Adulti]XXX: ADULT Russian
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90006
-#EXTINF:-1,[Adulti]^XXX ALBA XXX 1
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90005
-#EXTINF:-1,[Adulti]^XXX ALBA XXX 1 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90004
-#EXTINF:-1,[Adulti]^XXX ALBA XXX 2
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90003
-#EXTINF:-1,[Adulti]^XXX ALBA XXX 2 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90002
-#EXTINF:-1,[Adulti]^XXX ALBA XXX 3
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90001
-#EXTINF:-1,[Adulti]^XXX ALBA XXX 4
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90000
-#EXTINF:-1,[Adulti]^XXX ALBA XXX 5
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89999
-#EXTINF:-1,[Adulti]^XXX ALBA XXX 6
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89998
-#EXTINF:-1,[Adulti]XXX BLACKED FHD 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89997
-#EXTINF:-1,[Adulti]^XXX CZECH STREETS FHD 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89996
-#EXTINF:-1,[Adulti]XXX: ERO-X
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89979
-#EXTINF:-1,[Adulti]XXX: PINK O
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89978
-#EXTINF:-1,[Adulti]XXX: MOFOS FHD 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89977
-#EXTINF:-1,[Adulti]XXX: EROXXX
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89976
-#EXTINF:-1,[Adulti]XXX: EROTIC 5
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89975
-#EXTINF:-1,[Adulti]XXX: PRIVATE
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89974
-#EXTINF:-1,[Adulti]XXX: SEXT6SENSO
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89973
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 11 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89972
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 10 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89971
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 7 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89989
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 6 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89988
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 5 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89987
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 4 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89986
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 3 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89985
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 2 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89984
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 1 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89983
-#EXTINF:-1,[Adulti]XXX: SCT
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89982
-#EXTINF:-1,[Adulti]XXX: France a Poil1 FHD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89981
-#EXTINF:-1,[Adulti]XXX: XXL TV
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89980
-#EXTINF:-1,[Adulti]^XXX VENUS TV
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89995
-#EXTINF:-1,[Adulti]XXX: REDLIGHT HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89994
-#EXTINF:-1,[Adulti]XXX: France a Poil2 FHD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89993
-#EXTINF:-1,[Adulti]XXX: PENTHOUSE GOLD HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89992
-#EXTINF:-1,[Adulti]XXX: XXL HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89991
-#EXTINF:-1,[Adulti]XXX: VIVID TV
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89990
-#EXTINF:-1,[Adulti]XXX: JASMIN.TV HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89955
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 17 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89954
-#EXTINF:-1,[Adulti]XXX: PlayBoy TV
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89953
-#EXTINF:-1,[Adulti]XXX: XY plus
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89952
-#EXTINF:-1,[Adulti]XXX: CENTOXCENTO TV (PRIVE)
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89951
-#EXTINF:-1,[Adulti]XXX: DORCEL
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89950
-#EXTINF:-1,[Adulti]XXX: HUSTLER TV
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89949
-#EXTINF:-1,[Adulti]XXX: Evil Angel FHD 1080P
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89948
-#EXTINF:-1,[Adulti]XXX: Blue Hustler
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89947
-#EXTINF:-1,[Adulti]XXX: France a Poil4 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89946
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 1 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89962
-#EXTINF:-1,[Adulti]XXX: EROTIC 1
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89961
-#EXTINF:-1,[Adulti]XXX: EROTIC 8
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89960
-#EXTINF:-1,[Adulti]XXX: EROTIC 7
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89959
-#EXTINF:-1,[Adulti]XXX: EROTIC 6
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89958
-#EXTINF:-1,[Adulti]XXX: EROTIC 2
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89957
-#EXTINF:-1,[Adulti]XXX: ADULT HOTCLUB 20 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89956
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 9 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89970
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 8 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89969
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 7 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89968
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 6 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89967
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 5 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89966
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 4 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89965
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 3 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89964
-#EXTINF:-1,[Adulti]VIP-XXX: Adult TINY4K 2 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89963
-#EXTINF:-1,[Adulti]XXX: BRAZZERS TV EUROPE
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89945
-#EXTINF:-1,[Adulti]XXX: EROTIC 3
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89944
-#EXTINF:-1,[Adulti]XXX: France a Poil3 HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89943
-#EXTINF:-1,[Adulti]XXX: Fake Taxi FHD 1080p
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/89942
-#EXTINF:-1,XXX Hustler HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90234
-#EXTINF:-1,XXX Passion XXX
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90235
-#EXTINF:-1,XXX Pent House 2
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90236
-#EXTINF:-1,XXX Pinko TV HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90237
-#EXTINF:-1,XXX Red Light
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90238
-#EXTINF:-1,XXX SCT
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90239
-#EXTINF:-1,XXX Sesto Senso
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90240
-#EXTINF:-1,XXX Brazers TV HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90241
-#EXTINF:-1,XXX Dorcel TV HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90242
-#EXTINF:-1,XXX Hustler Full HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90243
-#EXTINF:-1,XXX Private Tv Full HD
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90244
-#EXTINF:-1,XXXXL
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/90245
-#EXTINF:-1,Abella Danger - 1st IR Anal
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90819.mp4
-#EXTINF:-1,Abella Danger - 19 And Anal
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90820.mp4
-#EXTINF:-1,Abella Danger - Ass Demolished Twice Over
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90821.mp4
-#EXTINF:-1,Abella Danger - Anal Freaks
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90822.mp4
-#EXTINF:-1,Abella Danger - Bouldering Booty
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90823.mp4
-#EXTINF:-1,Abella Danger - Checked Out
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90824.mp4
-#EXTINF:-1,Abella Danger - Exit 118
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90825.mp4
-#EXTINF:-1,Abella Danger - Fuck With Caution
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90826.mp4
-#EXTINF:-1,Abella Danger - Gaped In Ripped Stockings
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90827.mp4
-#EXTINF:-1,Abella Danger - Gloryhole
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90828.mp4
-#EXTINF:-1,Abella Danger - Grand Theft Moto
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90829.mp4
-#EXTINF:-1,Abella Danger - Happy Hour Hideaway
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90830.mp4
-#EXTINF:-1,Abella Danger - Here Batter Batter
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90831.mp4
-#EXTINF:-1,Abella Danger - How To Suckseed In Business 2
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90832.mp4
-#EXTINF:-1,Abella Danger - Just Desserts
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90833.mp4
-#EXTINF:-1,Abella Danger - Lights CockCam Action
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90834.mp4
-#EXTINF:-1,Abella Danger - Love Drunk
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90835.mp4
-#EXTINF:-1,Abella Danger - Meeting Abella Danger
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90836.mp4
-#EXTINF:-1,Abella Danger - Mutual Massage
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90837.mp4
-#EXTINF:-1,Abella Danger - My Horny Coworker
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90838.mp4
-#EXTINF:-1,Abella Danger - Old Man Finds His Way
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90839.mp4
-#EXTINF:-1,Abella Danger - One Shaft Isnt Enough
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90840.mp4
-#EXTINF:-1,Abella Danger - Poolside Booty
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90841.mp4
-#EXTINF:-1,Abella Danger - Satisfies Her Anal Craving
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90842.mp4
-#EXTINF:-1,Abella Danger - Shower Curtain Cock
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90843.mp4
-#EXTINF:-1,Abella Danger - Squirt Surge
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90844.mp4
-#EXTINF:-1,Abella Danger - Squirts From A DP Workout
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90845.mp4
-#EXTINF:-1,Abella Danger - Taking A Huge Dick
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90846.mp4
-#EXTINF:-1,Abella Danger - The DP Masters
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90847.mp4
-#EXTINF:-1,Abella Danger - The Housewife and The Hitchhiker
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90848.mp4
-#EXTINF:-1,Abella Danger - The IT Couple
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90849.mp4
-#EXTINF:-1,Abella Danger - Throwback Thursday
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90850.mp4
-#EXTINF:-1,Abella Danger - Tip Your Waitress
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90851.mp4
-#EXTINF:-1,Abella Danger - Twerking For Miami Traffic
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90852.mp4
-#EXTINF:-1,Abella Danger - Untangling
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90853.mp4
-#EXTINF:-1,Abella Danger - Wet Danger
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90854.mp4
-#EXTINF:-1,Abella Danger - Working His Pole
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90855.mp4
-#EXTINF:-1,Abella Danger - First Date BBC
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90856.mp4
-#EXTINF:-1,Abella Danger - First Impressions
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90857.mp4
-#EXTINF:-1,Abella Danger - Guilty Nanny Rides Hard Dick To Redemption
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90858.mp4
-#EXTINF:-1,Bridgette B - Codename Angel Of Stealth
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90859.mkv
-#EXTINF:-1,Bridgette B - Anal Threesome
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90860.mp4
-#EXTINF:-1,Bridgette B - Big Black Cock Makes Her Wet
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90861.mp4
-#EXTINF:-1,Bridgette B - Big Tit Anal Workout
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90862.mp4
-#EXTINF:-1,Bridgette B - Big Titted Latina Fuck Holes
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90863.mp4
-#EXTINF:-1,Bridgette B - Blacks On Cougars
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90864.mp4
-#EXTINF:-1,Bridgette B - Blowjob Fantasies
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90865.mp4
-#EXTINF:-1,Bridgette B - Bridgette By The Pool
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90866.mp4
-#EXTINF:-1,Bridgette B - Bridgette Fucks Her Neighbor
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90867.mp4
-#EXTINF:-1,Bridgette B - Busty Blonde Bridgette Bs Butt Boned
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90868.mp4
-#EXTINF:-1,Bridgette B - Busty Joggers Anal Fuck
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90869.mp4
-#EXTINF:-1,Bridgette B - Busty Top Shelf Titties Featuring
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90870.mp4
-#EXTINF:-1,Bridgette B - Caught Red Handed
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90871.mp4
-#EXTINF:-1,Bridgette B - Concentrado
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90872.mp4
-#EXTINF:-1,Bridgette B - Family with Benefits
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90873.mp4
-#EXTINF:-1,Bridgette B - Gets Her ASS Pounded By The Milfomaniac
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90874.mp4
-#EXTINF:-1,Bridgette B - Gets Her Holes Drilled By Two Dicks
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90875.mp4
-#EXTINF:-1,Bridgette B - Graphic Content
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90876.mp4
-#EXTINF:-1,Bridgette B - Hardcore anal action
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90877.mp4
-#EXTINF:-1,Bridgette B - HHHoneys
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90878.mp4
-#EXTINF:-1,Bridgette B - Ill Show You How
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90879.mp4
-#EXTINF:-1,Bridgette B - Its A Sausage Fest
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90880.mp4
-#EXTINF:-1,Bridgette B - Kassandra Needs Some Hard Cock
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90881.mp4
-#EXTINF:-1,Bridgette B - MILF Fest
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90882.mp4
-#EXTINF:-1,Bridgette B - Latinas On Fire 2
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90883.mp4
-#EXTINF:-1,Bridgette B - Passion of a Stallion
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90884.mp4
-#EXTINF:-1,Bridgette B - Stacked Mylf Undresses And Impresses
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90885.mp4
-#EXTINF:-1,Bridgette B - Stepsons Sneak Peek
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90886.mp4
-#EXTINF:-1,Bridgette B - To Serve And Protect
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90887.mp4
-#EXTINF:-1,Bridgette B - Using Mom to Learn
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90888.mp4
-#EXTINF:-1,Bridgette B - Where Have You Been
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90889.mp4
-#EXTINF:-1,Bridgette B - Word Of Mouth
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90890.mp4
-#EXTINF:-1,Bridgette B. - Bumpy Business
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90891.mp4
-#EXTINF:-1,Jessa Rhodes - A Gonzo Story Sister Swapping
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90892.mp4
-#EXTINF:-1,Jessa Rhodes - All Out Oral
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90893.mp4
-#EXTINF:-1,Jessa Rhodes - Artistic Perversions 2
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90894.mp4
-#EXTINF:-1,Jessa Rhodes - At the Bar
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90895.mp4
-#EXTINF:-1,Jessa Rhodes - Better Than Ever
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90896.mp4
-#EXTINF:-1,Jessa Rhodes - Big Cock Anal Fuck
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90897.mp4
-#EXTINF:-1,Jessa Rhodes - Broken Beauty
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90898.mp4
-#EXTINF:-1,Jessa Rhodes - Christmas Party
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90899.mp4
-#EXTINF:-1,Jessa Rhodes - Completely Anonymous
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90900.mp4
-#EXTINF:-1,Jessa Rhodes - Cum On My Feet
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90901.mp4
-#EXTINF:-1,Jessa Rhodes - Doc Takes On The Biggest Cock
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90902.mp4
-#EXTINF:-1,Jessa Rhodes - Dreamy Therapy
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90903.mp4
-#EXTINF:-1,Jessa Rhodes - Family Holiday 3
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90904.mp4
-#EXTINF:-1,Jessa Rhodes - First DP
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90905.mp4
-#EXTINF:-1,Jessa Rhodes - Gorgeous Blonde
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90906.mp4
-#EXTINF:-1,Jessa Rhodes - Hardcore
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90907.mp4
-#EXTINF:-1,Jessa Rhodes - Hardcore2
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90908.mp4
-#EXTINF:-1,Jessa Rhodes - Her Virgin Ass Gets Penetrated
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90909.mp4
-#EXTINF:-1,Jessa Rhodes - Invitation To Shibari
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90910.mp4
-#EXTINF:-1,Jessa Rhodes - Jessa Has A Need For Black Cock
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90911.mp4
-#EXTINF:-1,Jessa Rhodes - Jessa Rhodes Is Caught In The Act
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90912.mp4
-#EXTINF:-1,Jessa Rhodes - Jewel Of The Pool
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90913.mp4
-#EXTINF:-1,Jessa Rhodes - Lovely Sex In Latex Stockings
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90914.mp4
-#EXTINF:-1,Jessa Rhodes - Meet the Fuckers
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90915.mp4
-#EXTINF:-1,Jessa Rhodes - My Fathers Girlfriend
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90916.mp4
-#EXTINF:-1,Jessa Rhodes - Royal Fuck
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90917.mp4
-#EXTINF:-1,Jessa Rhodes - Sensual Surprise
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90918.mp4
-#EXTINF:-1,Jessa Rhodes - Sit On My Face
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90919.mp4
-#EXTINF:-1,Jessa Rhodes - Stretching Jessas Tight Hole
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90920.mp4
-#EXTINF:-1,Jessa Rhodes - The ass on this blonde
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90921.mp4
-#EXTINF:-1,Jessa Rhodes - The Jessa Rhodes Experience
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90922.mp4
-#EXTINF:-1,Jessa Rhodes - The passionated fuck
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90923.mp4
-#EXTINF:-1,Jessa Rhodes - The Power Position
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90924.mp4
-#EXTINF:-1,Jessa Rhodes - The stunning Jessa Rhodes
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90925.mp4
-#EXTINF:-1,Jessa Rhodes - The Wives Escort Club
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90926.mp4
-#EXTINF:-1,Jessa Rhodes - They Came In Peace Scene 3
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90927.mp4
-#EXTINF:-1,Jessa Rhodes - Wife Makes Ex Jealous With Anal
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90928.mp4
-#EXTINF:-1,Madison Ivy - The Assistants
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90929.mkv
-#EXTINF:-1,Madison Ivy - A Massage With A View
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90930.mp4
-#EXTINF:-1,Madison Ivy - Chest Massage
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90931.mkv
-#EXTINF:-1,Madison Ivy - In Touch With Shibari
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90932.mp4
-#EXTINF:-1,Madison Ivy - Kinky Kidnap
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90933.mp4
-#EXTINF:-1,Madison Ivy - Kitchen Fun
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90934.mp4
-#EXTINF:-1,Madison Ivy - Monday With Madison
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90935.mp4
-#EXTINF:-1,Madison Ivy - My Sisters Hot Friend
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90936.mp4
-#EXTINF:-1,Madison Ivy - Naughty Nuru
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90937.mp4
-#EXTINF:-1,Madison Ivy - No Way Out
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90938.mp4
-#EXTINF:-1,Madison - Ivy Open Up For Love
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90939.mp4
-#EXTINF:-1,Madison Ivy - Pixel Whip Strip
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90940.mp4
-#EXTINF:-1,Madison Ivy - Pornstars Like it Big
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90941.mp4
-#EXTINF:-1,Madison Ivy - Sex In Legwear
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90942.mp4
-#EXTINF:-1,Madison Ivy - Slut Madisons Sex Tape
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90943.mkv
-#EXTINF:-1,Madison Ivy - Soft Massage
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90944.mkv
-#EXTINF:-1,Madison Ivy - Special Service
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90945.mp4
-#EXTINF:-1,Madison Ivy - Summertime Spray Down
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90946.mp4
-#EXTINF:-1,Madison Ivy - The Butler Did It
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90947.mp4
-#EXTINF:-1,Madison Ivy - Warm Hands
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90948.mkv
-#EXTINF:-1,Madison Ivy - Whats The Problem
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90949.mp4
-#EXTINF:-1,Madison Ivy - Xanders World Tour
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90950.mp4
-#EXTINF:-1,Madison Ivy - You're no Nurse
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90951.mp4
-#EXTINF:-1,Peta Jensen - A Guilty Conscience
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90952.mp4
-#EXTINF:-1,Peta Jensen - Banging Peta Jensen Doggy style
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90953.mp4
-#EXTINF:-1,Peta Jensen - Big Ripe Melons
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90954.mp4
-#EXTINF:-1,Peta Jensen - Blindfold Massage
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90955.mp4
-#EXTINF:-1,Peta Jensen - Candlelit Evening
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90956.mp4
-#EXTINF:-1,Peta Jensen - Captain America A XXX Parody
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90957.mp4
-#EXTINF:-1,Peta Jensen - Countdown to you
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90958.mp4
-#EXTINF:-1,Peta Jensen - DP Presents Peta Jensen
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90959.mp4
-#EXTINF:-1,Peta Jensen - Dressed to Impressed
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90960.mp4
-#EXTINF:-1,Peta Jensen - Hardcore 1
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90961.mp4
-#EXTINF:-1,Peta Jensen - Hardcore 2
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90962.mp4
-#EXTINF:-1,Peta Jensen - Hardcore 3
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90963.mp4
-#EXTINF:-1,Peta Jensen - Hardcore 4
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90964.mp4
-#EXTINF:-1,Peta Jensen - Morning Glory
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90965.mp4
-#EXTINF:-1,Peta Jensen - My Honey Wants It Rough
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90966.mp4
-#EXTINF:-1,Peta Jensen - Our New Maid
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90967.mp4
-#EXTINF:-1,Peta Jensen - Passion Sex
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90968.mkv
-#EXTINF:-1,Peta Jensen - Perfect Milf Slut
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90969.mp4
-#EXTINF:-1,Peta Jensen - Perfect View of Peta Jensen
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90970.mp4
-#EXTINF:-1,Peta Jensen - Peta Jensen Daily Dick Fix
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90971.mp4
-#EXTINF:-1,Peta Jensen - Peta loves the army
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90972.mp4
-#EXTINF:-1,Peta Jensen - Peta Pays Your Cock a Visit
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90973.mp4
-#EXTINF:-1,Peta Jensen - Peta Wants a pony from daddy
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90974.mkv
-#EXTINF:-1,Peta Jensen - Peta’s Creampie Craze
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90975.mp4
-#EXTINF:-1,Peta Jensen - Peta's first creampie
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90976.mp4
-#EXTINF:-1,Peta Jensen - Playful Morning Sex With Peta Jensen
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90977.mp4
-#EXTINF:-1,Peta Jensen - Please Come to Fuck Me
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90978.mp4
-#EXTINF:-1,Peta Jensen - Pov Sex With Neighbour
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90979.mp4
-#EXTINF:-1,Peta Jensen - Sex With Beautiful Milf
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90980.mp4
-#EXTINF:-1,Peta Jensen - The Deal
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90981.mp4
-#EXTINF:-1,Peta Jensen - Tomp Raider Lara Croft Porn Parody
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90982.mp4
-#EXTINF:-1,Peta Jensen - Try Your Tits
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90983.mp4
-#EXTINF:-1,Susy Gala - Desfase en el Salón erótico de Barcelona
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90984.mp4
-#EXTINF:-1,Susy Gala - Editing his dream
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90985.mp4
-#EXTINF:-1,Susy Gala - Enjoys Threesome with Plumber and Husband
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90986.mp4
-#EXTINF:-1,Susy Gala - Foot Clerk At Work
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90987.mp4
-#EXTINF:-1,Susy Gala - From Footjob to Blowjob
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90988.mp4
-#EXTINF:-1,Susy Gala - fucked and oiled up
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90989.mp4
-#EXTINF:-1,Susy Gala - Fucking The Secretary Under The Sun
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90990.mp4
-#EXTINF:-1,Susy Gala - Hardcore
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90991.mp4
-#EXTINF:-1,Susy Gala - Homecoming And Naughty Games
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90992.mp4
-#EXTINF:-1,Susy Gala - Lesbian Vixens
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90993.mp4
-#EXTINF:-1,Susy Gala - Masajeando a Susi Gala
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90994.mp4
-#EXTINF:-1,Susy Gala - Private Stripper
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90995.mp4
-#EXTINF:-1,Susy Gala - Punished maid
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90996.mp4
-#EXTINF:-1,Susy Gala - Sexual ransom
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90997.mp4
-#EXTINF:-1,Susy Gala - Sexy Maid Fucked Doggy Style
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90998.mp4
-#EXTINF:-1,Susy Gala - Spanish Dick Devouring Goddess
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/90999.mp4
-#EXTINF:-1,Susy Gala - Spoiled by her guardian
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91000.mp4
-#EXTINF:-1,Susy Gala - Wife Husband Fuck Lesbian
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91001.mp4
-#EXTINF:-1,Susy Gala - Working up a Sweat
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91002.mp4
-#EXTINF:-1,Susy Gala - Especial De La Manana
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91003.mp4
-#EXTINF:-1,After Dark
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91329.mp4
-#EXTINF:-1,Alexis Texas Road Trip
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91330.mp4
-#EXTINF:-1,Alexis Texas Roadtrip 2
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91331.mp4
-#EXTINF:-1,Angela White Dark Side
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91332.mp4
-#EXTINF:-1,Big Wet Asses 28
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91333.mp4
-#EXTINF:-1,Big Wet Interracial Tits 4
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91334.mp4
-#EXTINF:-1,Deviant Stepsisters 3
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91335.mp4
-#EXTINF:-1,Facial Cum Sluts 8
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91336.mp4
-#EXTINF:-1,Kiki Neighbours
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91337.mp4
-#EXTINF:-1,My Wife Caught Me Ass Fucking Her Mother 11
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91338.mp4
-#EXTINF:-1,Pussy is the Best Medicine 3
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91339.mp4
-#EXTINF:-1,Roadside XXX
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91340.mp4
-#EXTINF:-1,Russian Institute 25
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91341.mp4
-#EXTINF:-1,Teen Anal 3
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91342.mp4
-#EXTINF:-1,The Cool Crowd
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91343.mp4
-#EXTINF:-1,Throat Fuck 3
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91344.mp4
-#EXTINF:-1,Tiny Little Titties 6
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91345.mp4
-#EXTINF:-1,Watching My Hotwife 6
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91346.mp4
-#EXTINF:-1,Captain Marvel XXX
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91347.mp4
-#EXTINF:-1,L'uomo che guarda - 1994
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/91633.mp4
-#EXTINF:-1,Ad ogni uccello il nido bello
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93146.mp4
-#EXTINF:-1,Agenzia Immobiliare
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93147.mp4
-#EXTINF:-1,Calde porcellone italiane
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93148.mp4
-#EXTINF:-1,Centoxcento party atomico
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93149.mp4
-#EXTINF:-1,Con la nera non vai in bianco
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93150.mp4
-#EXTINF:-1,Dai alla fregna cio' che si degna
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93151.mp4
-#EXTINF:-1,Dottori impazziti
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93152.mp4
-#EXTINF:-1,Gatta e Topa
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93153.mp4
-#EXTINF:-1,Genova per noi
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93154.mp4
-#EXTINF:-1,I Ragazzi del culetto
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93155.mp4
-#EXTINF:-1,Ingenue peccatrici italiane
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93156.avi
-#EXTINF:-1,L'appetito vien sborrando
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93157.mp4
-#EXTINF:-1,L'eta dello sviluppo
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93158.avi
-#EXTINF:-1,La Centoxcento siete voi
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93159.mp4
-#EXTINF:-1,La pena del pene
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93160.mp4
-#EXTINF:-1,La storia d'amore con il mio ginecologo
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93161.mp4
-#EXTINF:-1,Lalla Lilli Lella la pelosa e le sue amiche
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93162.mp4
-#EXTINF:-1,Le 4 pene di Irene
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93163.mp4
-#EXTINF:-1,Le avventure di Carletto il vecchietto
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93164.mp4
-#EXTINF:-1,Maria Laddavia
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93165.mp4
-#EXTINF:-1,Merende golose
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93166.mp4
-#EXTINF:-1,Mia sorella na zoccola
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93167.avi
-#EXTINF:-1,Non di solo culo vive l'uomo
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93168.mp4
-#EXTINF:-1,Peccati inconfessabili
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93169.mp4
-#EXTINF:-1,Porche condominiali
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93170.avi
-#EXTINF:-1,Puttana Eva che terni skifosa
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93171.mp4
-#EXTINF:-1,Ricca sfondata
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93172.avi
-#EXTINF:-1,Seghista alle loro primarie
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93173.mp4
-#EXTINF:-1,Senza slip senza vergogna senza maschera
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93174.avi
-#EXTINF:-1,Sia beato chi ti si incula
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93175.mp4
-#EXTINF:-1,Troiaio milanese
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93176.mp4
-#EXTINF:-1,Vaffanculo e amami
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93177.mp4
-#EXTINF:-1,Desiderando Roberta
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93192.mp4
-#EXTINF:-1,Incontri proibiti
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93193.mkv
-#EXTINF:-1,Italiane sempre più troie
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93194.mkv
-#EXTINF:-1,Mamma e la gelosia
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93195.mp4
-#EXTINF:-1,Valeria prendi questa mazza
-http://srv1.galaxyiptv.net:8080/movie/U43wq1yY9P/qDtChibk7W/93196.mkv
-#EXTINF:-1,Siffredi Accademy Channel
-http://srv1.galaxyiptv.net:8080/U43wq1yY9P/qDtChibk7W/92772
