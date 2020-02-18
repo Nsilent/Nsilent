@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/RTP1_-_Logo_2016.svg" group-title="Portugal-17/02/2020",RTP 1 PT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/512px-RTP1_-_Logo_2016.png" group-title="Portugal-17/02/2020",RTP 1 PT
 http://htq.brasilia.me/iptv/ch2100?code=050131378299589
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/RTP2_logo_2016.png" ,RTP 2 PT
 http://cdng.pubcdn.tn/iptv/ch2101?code=050131378299589
