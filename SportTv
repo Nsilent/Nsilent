@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2123.png",Sport TV 1 PT
+http://skdn.redi-vo.com/iptv/ch2123?code=1701273726237058&key=48317
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2124.png",Sport TV 2 PT
+http://skdn.redi-vo.com/iptv/ch2124?code=1701273726237058&key=23461
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2125.png",Sport TV 3 PT
+http://skdn.redi-vo.com/iptv/ch2125?code=1701273726237058&key=54310
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2126.png",Sport TV 4 PT
+http://skdn.redi-vo.com/iptv/ch2126?code=1701273726237058&key=18673
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2127.png",Sport TV 5 PT
+http://skdn.redi-vo.com/iptv/ch2127?code=1701273726237058&key=49822
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2128.png",Eurosport 1 PT
+http://skdn.redi-vo.com/iptv/ch2128?code=1701273726237058&key=16696
+#EXTINF:0 group-title="Portugal"tvg-logo="http://logo.ddnb.tn/logochanel/2129.png",Eurosport 2 PT
+http://skdn.redi-vo.com/iptv/ch2129?code=1701273726237058&key=46866
